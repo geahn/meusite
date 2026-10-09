@@ -1,0 +1,1747 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "638af59b4707dfdb1fed0d65b1756801"
+    },
+    {
+        "path": "aderindo-ao-canva-de-forma-profissional",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/aderindo-ao-canva-de-forma-profissional/index.html",
+        "type": "file",
+        "md5": "c0f3e808dfc6ff8b1980017ffe8a3344"
+    },
+    {
+        "path": "adioswordpreess",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/adioswordpreess/index.html",
+        "type": "file",
+        "md5": "f2c78bd0825f1a25b307a8f66189bd01"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "a894b4474b6cf77f3e091e0849a2b3b7"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "d9e147b246376bb4910ca5dd0102812c"
+    },
+    {
+        "path": "assets/fa",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/fa/all.css",
+        "type": "file",
+        "md5": "ecdedb2be632aa253f702b59650e300d"
+    },
+    {
+        "path": "/assets/fa/fa-brands-400.eot",
+        "type": "file",
+        "md5": "15c46c01ed5b044869e3dd72307ebd7f"
+    },
+    {
+        "path": "/assets/fa/fa-brands-400.svg",
+        "type": "file",
+        "md5": "6c6d2066f4cf11ef750989386713bccd"
+    },
+    {
+        "path": "/assets/fa/fa-brands-400.ttf",
+        "type": "file",
+        "md5": "a65181e29461a2152d29ad980a01048a"
+    },
+    {
+        "path": "/assets/fa/fa-brands-400.woff",
+        "type": "file",
+        "md5": "16a6ed1aeda414f2bde8110d5905cf8b"
+    },
+    {
+        "path": "/assets/fa/fa-brands-400.woff2",
+        "type": "file",
+        "md5": "de7eef49434c70dba87f840f949d36f8"
+    },
+    {
+        "path": "/assets/fa/fa-duotone-900.eot",
+        "type": "file",
+        "md5": "2254f6660a7f96ef87aafc5b52b80339"
+    },
+    {
+        "path": "/assets/fa/fa-duotone-900.svg",
+        "type": "file",
+        "md5": "bd556a0aeb87d75e1425ef5443c630a6"
+    },
+    {
+        "path": "/assets/fa/fa-duotone-900.ttf",
+        "type": "file",
+        "md5": "ab214c8fea226b9a0dc64ad65c1a34e7"
+    },
+    {
+        "path": "/assets/fa/fa-duotone-900.woff",
+        "type": "file",
+        "md5": "655a43112ec619dbe68e3cca6e57684f"
+    },
+    {
+        "path": "/assets/fa/fa-duotone-900.woff2",
+        "type": "file",
+        "md5": "f85093c6e1ca92a524bd96aa226ded41"
+    },
+    {
+        "path": "/assets/fa/fa-light-300.eot",
+        "type": "file",
+        "md5": "b766437c72fb003077759b689f68ae9c"
+    },
+    {
+        "path": "/assets/fa/fa-light-300.svg",
+        "type": "file",
+        "md5": "a83fcc84a08516a0e8bf77b2d982827a"
+    },
+    {
+        "path": "/assets/fa/fa-light-300.ttf",
+        "type": "file",
+        "md5": "da8836e0e85cd4fcad11b53863d27266"
+    },
+    {
+        "path": "/assets/fa/fa-light-300.woff",
+        "type": "file",
+        "md5": "7ebdf3b77b44b4e279ac67ab271e6829"
+    },
+    {
+        "path": "/assets/fa/fa-light-300.woff2",
+        "type": "file",
+        "md5": "494afc84cdd39d88be62f545478d9d27"
+    },
+    {
+        "path": "/assets/fa/fa-regular-400.eot",
+        "type": "file",
+        "md5": "2fa9c062717436ec53637ec253318dce"
+    },
+    {
+        "path": "/assets/fa/fa-regular-400.svg",
+        "type": "file",
+        "md5": "a7fe14be02125376c03aced162443080"
+    },
+    {
+        "path": "/assets/fa/fa-regular-400.ttf",
+        "type": "file",
+        "md5": "b3fd5e6a93669bec2472fa7651132f36"
+    },
+    {
+        "path": "/assets/fa/fa-regular-400.woff",
+        "type": "file",
+        "md5": "636ed70663e8a4cb23d70560ec6484df"
+    },
+    {
+        "path": "/assets/fa/fa-regular-400.woff2",
+        "type": "file",
+        "md5": "273fb616ec09b2ed1b0022f3ac301cb2"
+    },
+    {
+        "path": "/assets/fa/fa-solid-900.eot",
+        "type": "file",
+        "md5": "05da5ba4cd0c78522a4ae568bb127569"
+    },
+    {
+        "path": "/assets/fa/fa-solid-900.svg",
+        "type": "file",
+        "md5": "29fd9e8a4f8962b6a48328553db58f2c"
+    },
+    {
+        "path": "/assets/fa/fa-solid-900.ttf",
+        "type": "file",
+        "md5": "e6dc43e136f52243e882972e77e6f09e"
+    },
+    {
+        "path": "/assets/fa/fa-solid-900.woff",
+        "type": "file",
+        "md5": "7e15a7231f66342d3b3e89f5d4c7aa4c"
+    },
+    {
+        "path": "/assets/fa/fa-solid-900.woff2",
+        "type": "file",
+        "md5": "589d778cfe80b8ad701025c457fd8f5b"
+    },
+    {
+        "path": "assets/img",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/img/avatar.png",
+        "type": "file",
+        "md5": "bbd5a094cf58e135a7472f95084a8500"
+    },
+    {
+        "path": "/assets/img/avatarhover.png",
+        "type": "file",
+        "md5": "986f9308d4d60ef836df3054aaf57dd2"
+    },
+    {
+        "path": "/assets/img/avatar_old.png",
+        "type": "file",
+        "md5": "c2c12b9fa9909acc18e642275a94a50a"
+    },
+    {
+        "path": "/assets/img/sep.png",
+        "type": "file",
+        "md5": "85be09de09515f8bf00d53a150ddceb9"
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/jquery-3.6.0.min.js",
+        "type": "file",
+        "md5": "8fb8fee4fcc3cc86ff6c724154c49c42"
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "3733efd39cd6c799b95c8fcb96993840"
+    },
+    {
+        "path": "autenticidade-digital-e-real-ou-fake",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/autenticidade-digital-e-real-ou-fake/index.html",
+        "type": "file",
+        "md5": "08edc6ce6f1a595c167701bdb802be45"
+    },
+    {
+        "path": "bio",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/bio/index.html",
+        "type": "file",
+        "md5": "b571eade283815d4a73be111be3d680e"
+    },
+    {
+        "path": "casestarwars",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/casestarwars/index.html",
+        "type": "file",
+        "md5": "2a8cf4595c67d38b148b6a01fa16045e"
+    },
+    {
+        "path": "chaves-uma-relacao-de-amor-e-trabalho",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/chaves-uma-relacao-de-amor-e-trabalho/index.html",
+        "type": "file",
+        "md5": "513d6f8cd087ec5d23678e552b83a352"
+    },
+    {
+        "path": "contato",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/contato/index.html",
+        "type": "file",
+        "md5": "623909a7d4d8b70e85279d67a2ecf6ec"
+    },
+    {
+        "path": "detoxdigital",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/detoxdigital/index.html",
+        "type": "file",
+        "md5": "a59f34fe3c4f52a1e8792e4ffdec15f0"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "c5568d3b8281cdceed1eec2215d8b106"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "6be665247ef0197328620d711b0df472"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "8967b57c22d2c19bfc10b21883883c93"
+    },
+    {
+        "path": "ja-chega",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/ja-chega/index.html",
+        "type": "file",
+        "md5": "c9f8219604bb2f7348fb3687e778103f"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/1",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/antesdepois.jpg",
+        "type": "file",
+        "md5": "292c6fc49bc3e8716699e67fa75933f5"
+    },
+    {
+        "path": "/media/posts/1/freedom.jpg",
+        "type": "file",
+        "md5": "83c8cf1c50cd7be12cfa537d666360d1"
+    },
+    {
+        "path": "media/posts/1/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/responsive/antesdepois-2xl.jpg",
+        "type": "file",
+        "md5": "38a8a08800f8543952a6a792e6650796"
+    },
+    {
+        "path": "/media/posts/1/responsive/antesdepois-lg.jpg",
+        "type": "file",
+        "md5": "21bb7f53070f28d2e45a0e4942331186"
+    },
+    {
+        "path": "/media/posts/1/responsive/antesdepois-md.jpg",
+        "type": "file",
+        "md5": "335a04faceccafff1ec439f222adf73f"
+    },
+    {
+        "path": "/media/posts/1/responsive/antesdepois-sm.jpg",
+        "type": "file",
+        "md5": "9a0cd329852daf96198b8c7b4fb47497"
+    },
+    {
+        "path": "/media/posts/1/responsive/antesdepois-xl.jpg",
+        "type": "file",
+        "md5": "c6af9aa006992b8d70d8969c58790146"
+    },
+    {
+        "path": "/media/posts/1/responsive/antesdepois-xs.jpg",
+        "type": "file",
+        "md5": "9f6443ceaae316517e9fc34111da1173"
+    },
+    {
+        "path": "/media/posts/1/responsive/freedom-2xl.jpg",
+        "type": "file",
+        "md5": "dcc062c25469504ad14bc96cb6466bb8"
+    },
+    {
+        "path": "/media/posts/1/responsive/freedom-lg.jpg",
+        "type": "file",
+        "md5": "8f8c87827466f84004515372034ff415"
+    },
+    {
+        "path": "/media/posts/1/responsive/freedom-md.jpg",
+        "type": "file",
+        "md5": "c901a2ae8829c6e1dde78bf4e63b399e"
+    },
+    {
+        "path": "/media/posts/1/responsive/freedom-sm.jpg",
+        "type": "file",
+        "md5": "dccef32d9013caf88fbbad82256a0a20"
+    },
+    {
+        "path": "/media/posts/1/responsive/freedom-xl.jpg",
+        "type": "file",
+        "md5": "dcc062c25469504ad14bc96cb6466bb8"
+    },
+    {
+        "path": "/media/posts/1/responsive/freedom-xs.jpg",
+        "type": "file",
+        "md5": "6789a79d9b489d2063805ecd946f31e4"
+    },
+    {
+        "path": "media/posts/10",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/10/georgelucasstudio.jpg",
+        "type": "file",
+        "md5": "f6ac751d550ee8d5665b5a09e6f650e3"
+    },
+    {
+        "path": "media/posts/10/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/10/responsive/georgelucasstudio-2xl.jpg",
+        "type": "file",
+        "md5": "f88bad87892501b8a32d47b81b7266d7"
+    },
+    {
+        "path": "/media/posts/10/responsive/georgelucasstudio-lg.jpg",
+        "type": "file",
+        "md5": "f88bad87892501b8a32d47b81b7266d7"
+    },
+    {
+        "path": "/media/posts/10/responsive/georgelucasstudio-md.jpg",
+        "type": "file",
+        "md5": "38042bc3d38c6766427e7d63f788da7d"
+    },
+    {
+        "path": "/media/posts/10/responsive/georgelucasstudio-sm.jpg",
+        "type": "file",
+        "md5": "d336fa0261a29c414fc2cd5c1d895eef"
+    },
+    {
+        "path": "/media/posts/10/responsive/georgelucasstudio-xl.jpg",
+        "type": "file",
+        "md5": "f88bad87892501b8a32d47b81b7266d7"
+    },
+    {
+        "path": "/media/posts/10/responsive/georgelucasstudio-xs.jpg",
+        "type": "file",
+        "md5": "34ebbfc82b9a181940f084bf4d319d77"
+    },
+    {
+        "path": "/media/posts/10/responsive/starwars-2xl.jpg",
+        "type": "file",
+        "md5": "13041d8180d2a7f4ac85e2986f88b163"
+    },
+    {
+        "path": "/media/posts/10/responsive/starwars-lg.jpg",
+        "type": "file",
+        "md5": "13041d8180d2a7f4ac85e2986f88b163"
+    },
+    {
+        "path": "/media/posts/10/responsive/starwars-md.jpg",
+        "type": "file",
+        "md5": "7e789c6a1196d4d7515fd2a27dd4bf96"
+    },
+    {
+        "path": "/media/posts/10/responsive/starwars-sm.jpg",
+        "type": "file",
+        "md5": "76bb8db4bebfe4f688986036ad8d58b0"
+    },
+    {
+        "path": "/media/posts/10/responsive/starwars-xl.jpg",
+        "type": "file",
+        "md5": "13041d8180d2a7f4ac85e2986f88b163"
+    },
+    {
+        "path": "/media/posts/10/responsive/starwars-xs.jpg",
+        "type": "file",
+        "md5": "571f74fe2cf6dde07d7ae11db701d535"
+    },
+    {
+        "path": "/media/posts/10/responsive/visions-2xl.jpeg",
+        "type": "file",
+        "md5": "0179c28470e39e4003fa0155c2be9318"
+    },
+    {
+        "path": "/media/posts/10/responsive/visions-lg.jpeg",
+        "type": "file",
+        "md5": "0179c28470e39e4003fa0155c2be9318"
+    },
+    {
+        "path": "/media/posts/10/responsive/visions-md.jpeg",
+        "type": "file",
+        "md5": "0179c28470e39e4003fa0155c2be9318"
+    },
+    {
+        "path": "/media/posts/10/responsive/visions-sm.jpeg",
+        "type": "file",
+        "md5": "dad0b90e31114ca06fdc09ef4f569bfd"
+    },
+    {
+        "path": "/media/posts/10/responsive/visions-xl.jpeg",
+        "type": "file",
+        "md5": "0179c28470e39e4003fa0155c2be9318"
+    },
+    {
+        "path": "/media/posts/10/responsive/visions-xs.jpeg",
+        "type": "file",
+        "md5": "1fca1b57cc0a16e40923f82498d3358c"
+    },
+    {
+        "path": "/media/posts/10/starwars.jpg",
+        "type": "file",
+        "md5": "d1c316c6428b3234fee432303bfe23b4"
+    },
+    {
+        "path": "/media/posts/10/visions.jpeg",
+        "type": "file",
+        "md5": "5c30fe601aed16a413a553901e5ab68e"
+    },
+    {
+        "path": "media/posts/14",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/14/realfake.png",
+        "type": "file",
+        "md5": "16df5afc502628408677563ac96f956b"
+    },
+    {
+        "path": "media/posts/14/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/14/responsive/realfake-2xl.png",
+        "type": "file",
+        "md5": "1c5c940a71fdb20ad48f64ba90862cba"
+    },
+    {
+        "path": "/media/posts/14/responsive/realfake-lg.png",
+        "type": "file",
+        "md5": "1c5c940a71fdb20ad48f64ba90862cba"
+    },
+    {
+        "path": "/media/posts/14/responsive/realfake-md.png",
+        "type": "file",
+        "md5": "6ab007e7fc01f60c35fc4f38120e229c"
+    },
+    {
+        "path": "/media/posts/14/responsive/realfake-sm.png",
+        "type": "file",
+        "md5": "0a82c81dbc5e1da573cc94404448a094"
+    },
+    {
+        "path": "/media/posts/14/responsive/realfake-xl.png",
+        "type": "file",
+        "md5": "1c5c940a71fdb20ad48f64ba90862cba"
+    },
+    {
+        "path": "/media/posts/14/responsive/realfake-xs.png",
+        "type": "file",
+        "md5": "b4fc2f99ce7ce5d0e1c74d2240f4895b"
+    },
+    {
+        "path": "media/posts/15",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/15/280805540_534009821679840_7361145985910883412_n.jpg",
+        "type": "file",
+        "md5": "9bda99b4ac364dd91bb6019aad95162a"
+    },
+    {
+        "path": "/media/posts/15/63b666160696037.63b89ee01f387.jpg",
+        "type": "file",
+        "md5": "d6808fdd28feea766cffab5cb7106132"
+    },
+    {
+        "path": "/media/posts/15/7402a8160696037.63b89ee01d56b.jpg",
+        "type": "file",
+        "md5": "4cbebb2c53adcbb8253f7f08a171c2bc"
+    },
+    {
+        "path": "/media/posts/15/a013be160696037.63b8a383ba42b.jpg",
+        "type": "file",
+        "md5": "b0b23eafc22940ed090fef83aca83709"
+    },
+    {
+        "path": "/media/posts/15/pattieschaves-2.png",
+        "type": "file",
+        "md5": "886d72c9e9a17887189a2ec764e374c0"
+    },
+    {
+        "path": "media/posts/15/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/15/responsive/280805540_534009821679840_7361145985910883412_n-2xl.jpg",
+        "type": "file",
+        "md5": "44821dc3cdcad5d182b4c56ec1d90eeb"
+    },
+    {
+        "path": "/media/posts/15/responsive/280805540_534009821679840_7361145985910883412_n-lg.jpg",
+        "type": "file",
+        "md5": "44821dc3cdcad5d182b4c56ec1d90eeb"
+    },
+    {
+        "path": "/media/posts/15/responsive/280805540_534009821679840_7361145985910883412_n-md.jpg",
+        "type": "file",
+        "md5": "1d0b3aaca7c72b00b5f1331268270867"
+    },
+    {
+        "path": "/media/posts/15/responsive/280805540_534009821679840_7361145985910883412_n-sm.jpg",
+        "type": "file",
+        "md5": "feba0d398fb18c19f41cc7ff8824d8c4"
+    },
+    {
+        "path": "/media/posts/15/responsive/280805540_534009821679840_7361145985910883412_n-xl.jpg",
+        "type": "file",
+        "md5": "44821dc3cdcad5d182b4c56ec1d90eeb"
+    },
+    {
+        "path": "/media/posts/15/responsive/280805540_534009821679840_7361145985910883412_n-xs.jpg",
+        "type": "file",
+        "md5": "2bba94785a5fac56e2a772aca60ad984"
+    },
+    {
+        "path": "/media/posts/15/responsive/63b666160696037.63b89ee01f387-2xl.jpg",
+        "type": "file",
+        "md5": "183909350153e96945ae6df76fb2b561"
+    },
+    {
+        "path": "/media/posts/15/responsive/63b666160696037.63b89ee01f387-lg.jpg",
+        "type": "file",
+        "md5": "5182df5378a838dac3d846a2165d1049"
+    },
+    {
+        "path": "/media/posts/15/responsive/63b666160696037.63b89ee01f387-md.jpg",
+        "type": "file",
+        "md5": "bcc23167d034b05442e29b7d911b0777"
+    },
+    {
+        "path": "/media/posts/15/responsive/63b666160696037.63b89ee01f387-sm.jpg",
+        "type": "file",
+        "md5": "9d59ae77245b2ad3ddfb1f93a42d4843"
+    },
+    {
+        "path": "/media/posts/15/responsive/63b666160696037.63b89ee01f387-xl.jpg",
+        "type": "file",
+        "md5": "77aa3f0eb154cbfbce238f2c65b0d2ae"
+    },
+    {
+        "path": "/media/posts/15/responsive/63b666160696037.63b89ee01f387-xs.jpg",
+        "type": "file",
+        "md5": "6e0cf69afc2728e532645b8c295621c6"
+    },
+    {
+        "path": "/media/posts/15/responsive/7402a8160696037.63b89ee01d56b-2xl.jpg",
+        "type": "file",
+        "md5": "f863a4ab31011a641b86012032c5720d"
+    },
+    {
+        "path": "/media/posts/15/responsive/7402a8160696037.63b89ee01d56b-lg.jpg",
+        "type": "file",
+        "md5": "d9f6fd76fb77758cd06811f1b8bed3b0"
+    },
+    {
+        "path": "/media/posts/15/responsive/7402a8160696037.63b89ee01d56b-md.jpg",
+        "type": "file",
+        "md5": "878a44885ed1280260c5a0daf51fcff1"
+    },
+    {
+        "path": "/media/posts/15/responsive/7402a8160696037.63b89ee01d56b-sm.jpg",
+        "type": "file",
+        "md5": "7f11a81ed0d788f24a1e654d0c0f46b2"
+    },
+    {
+        "path": "/media/posts/15/responsive/7402a8160696037.63b89ee01d56b-xl.jpg",
+        "type": "file",
+        "md5": "c3f6ea63325fc491de3fcb71222b2ed0"
+    },
+    {
+        "path": "/media/posts/15/responsive/7402a8160696037.63b89ee01d56b-xs.jpg",
+        "type": "file",
+        "md5": "1ade731a200d849a4b0132ff013a0f41"
+    },
+    {
+        "path": "/media/posts/15/responsive/a013be160696037.63b8a383ba42b-2xl.jpg",
+        "type": "file",
+        "md5": "d6f21e9a3ad4ce2e87b9446712d38ac0"
+    },
+    {
+        "path": "/media/posts/15/responsive/a013be160696037.63b8a383ba42b-lg.jpg",
+        "type": "file",
+        "md5": "4d3731a9335f1641a6af1b0370e43c2e"
+    },
+    {
+        "path": "/media/posts/15/responsive/a013be160696037.63b8a383ba42b-md.jpg",
+        "type": "file",
+        "md5": "4751a1efc24bf2ebff4699ad8baa5217"
+    },
+    {
+        "path": "/media/posts/15/responsive/a013be160696037.63b8a383ba42b-sm.jpg",
+        "type": "file",
+        "md5": "b6f3c7bf9b78de870a14c9b39de4c861"
+    },
+    {
+        "path": "/media/posts/15/responsive/a013be160696037.63b8a383ba42b-xl.jpg",
+        "type": "file",
+        "md5": "73e67abb2336f1f646b22d28cebda5fb"
+    },
+    {
+        "path": "/media/posts/15/responsive/a013be160696037.63b8a383ba42b-xs.jpg",
+        "type": "file",
+        "md5": "238d8154fb19200cfd3143f2119fe65f"
+    },
+    {
+        "path": "/media/posts/15/responsive/pattieschaves-2-2xl.png",
+        "type": "file",
+        "md5": "7cf9c3f2e6f08b8ce25b95403b4f30a0"
+    },
+    {
+        "path": "/media/posts/15/responsive/pattieschaves-2-lg.png",
+        "type": "file",
+        "md5": "3361a9f63a40d23bcf7cc9fafd76dbba"
+    },
+    {
+        "path": "/media/posts/15/responsive/pattieschaves-2-md.png",
+        "type": "file",
+        "md5": "2c6fff5479d68307ee8eb450ab6ed6c2"
+    },
+    {
+        "path": "/media/posts/15/responsive/pattieschaves-2-sm.png",
+        "type": "file",
+        "md5": "80a4abb3594bdb8f6a82b0f43be2c128"
+    },
+    {
+        "path": "/media/posts/15/responsive/pattieschaves-2-xl.png",
+        "type": "file",
+        "md5": "7cf9c3f2e6f08b8ce25b95403b4f30a0"
+    },
+    {
+        "path": "/media/posts/15/responsive/pattieschaves-2-xs.png",
+        "type": "file",
+        "md5": "90f9d31ed1beb4512f969a0c2f95937b"
+    },
+    {
+        "path": "media/posts/17",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/17/1.png",
+        "type": "file",
+        "md5": "978aef7c64c2a794bb19d1bf50eb5214"
+    },
+    {
+        "path": "media/posts/17/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/17/responsive/1-2xl.png",
+        "type": "file",
+        "md5": "83648f84a10d9eed2c36ea0214ab967f"
+    },
+    {
+        "path": "/media/posts/17/responsive/1-lg.png",
+        "type": "file",
+        "md5": "c684874be06f7f9ef1a18e277a2a20d8"
+    },
+    {
+        "path": "/media/posts/17/responsive/1-md.png",
+        "type": "file",
+        "md5": "8001f6cd3a2ede5dac11aa55a34f377e"
+    },
+    {
+        "path": "/media/posts/17/responsive/1-sm.png",
+        "type": "file",
+        "md5": "f84128e370d4288785c86cd2a3cd9b64"
+    },
+    {
+        "path": "/media/posts/17/responsive/1-xl.png",
+        "type": "file",
+        "md5": "83648f84a10d9eed2c36ea0214ab967f"
+    },
+    {
+        "path": "/media/posts/17/responsive/1-xs.png",
+        "type": "file",
+        "md5": "5c83384435ffe51ef758934ad6575f89"
+    },
+    {
+        "path": "media/posts/18",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/18/digitallife.png",
+        "type": "file",
+        "md5": "6749d9b2b6b2d202f4d640130eded99b"
+    },
+    {
+        "path": "media/posts/18/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/18/responsive/digitallife-2xl.png",
+        "type": "file",
+        "md5": "11dc7b7042f726c9a39451f6aed3fa35"
+    },
+    {
+        "path": "/media/posts/18/responsive/digitallife-lg.png",
+        "type": "file",
+        "md5": "11dc7b7042f726c9a39451f6aed3fa35"
+    },
+    {
+        "path": "/media/posts/18/responsive/digitallife-md.png",
+        "type": "file",
+        "md5": "9d0bbb11d5b4ddf4fd3b677493e8d1ac"
+    },
+    {
+        "path": "/media/posts/18/responsive/digitallife-sm.png",
+        "type": "file",
+        "md5": "d5e35861058266c6fca05b2d877fd3d3"
+    },
+    {
+        "path": "/media/posts/18/responsive/digitallife-xl.png",
+        "type": "file",
+        "md5": "11dc7b7042f726c9a39451f6aed3fa35"
+    },
+    {
+        "path": "/media/posts/18/responsive/digitallife-xs.png",
+        "type": "file",
+        "md5": "6476b3ff87a44b7a39101fd0a29dcc03"
+    },
+    {
+        "path": "media/posts/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/2/jachega.jpeg",
+        "type": "file",
+        "md5": "75e83f50afa6cf783d7f2abc7a0a08d1"
+    },
+    {
+        "path": "media/posts/2/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/2/responsive/jachega-2xl.jpeg",
+        "type": "file",
+        "md5": "1fc999a4b337ae6850741428d61b29cb"
+    },
+    {
+        "path": "/media/posts/2/responsive/jachega-lg.jpeg",
+        "type": "file",
+        "md5": "1fc999a4b337ae6850741428d61b29cb"
+    },
+    {
+        "path": "/media/posts/2/responsive/jachega-md.jpeg",
+        "type": "file",
+        "md5": "d51fe85339cfab6890f9135acf6675a5"
+    },
+    {
+        "path": "/media/posts/2/responsive/jachega-sm.jpeg",
+        "type": "file",
+        "md5": "8cef35f9515a053900063c89ca93315c"
+    },
+    {
+        "path": "/media/posts/2/responsive/jachega-xl.jpeg",
+        "type": "file",
+        "md5": "1fc999a4b337ae6850741428d61b29cb"
+    },
+    {
+        "path": "/media/posts/2/responsive/jachega-xs.jpeg",
+        "type": "file",
+        "md5": "bafd02a680fca230ebeac306dec118d6"
+    },
+    {
+        "path": "media/posts/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/3/detox.jpg",
+        "type": "file",
+        "md5": "6d90155f75cf1c620b7890b59b87774c"
+    },
+    {
+        "path": "media/posts/3/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/3/responsive/detox-2xl.jpg",
+        "type": "file",
+        "md5": "80bfe52155a0200a9c3db8686604b775"
+    },
+    {
+        "path": "/media/posts/3/responsive/detox-lg.jpg",
+        "type": "file",
+        "md5": "aa43ef588e941187dc0e56a69cd5bd99"
+    },
+    {
+        "path": "/media/posts/3/responsive/detox-md.jpg",
+        "type": "file",
+        "md5": "dfcc7a05b34f1e9d8560315192fc602c"
+    },
+    {
+        "path": "/media/posts/3/responsive/detox-sm.jpg",
+        "type": "file",
+        "md5": "8244605d5ff420c7863cd81774ce4ab2"
+    },
+    {
+        "path": "/media/posts/3/responsive/detox-xl.jpg",
+        "type": "file",
+        "md5": "80bfe52155a0200a9c3db8686604b775"
+    },
+    {
+        "path": "/media/posts/3/responsive/detox-xs.jpg",
+        "type": "file",
+        "md5": "7cc8b0f20690a326967a003ffe69c341"
+    },
+    {
+        "path": "media/posts/6",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/6/back.jpg",
+        "type": "file",
+        "md5": "9ea06b9cab84b065a89d148066f4dcce"
+    },
+    {
+        "path": "/media/posts/6/dude.gif",
+        "type": "file",
+        "md5": "eac289e925b4d1be5a27c9614aa42c8e"
+    },
+    {
+        "path": "media/posts/6/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/6/responsive/back-2xl.jpg",
+        "type": "file",
+        "md5": "a51383882b3c47edc86e58478e32999d"
+    },
+    {
+        "path": "/media/posts/6/responsive/back-lg.jpg",
+        "type": "file",
+        "md5": "39d19859cb9f9dde20dca2ee3a0bd470"
+    },
+    {
+        "path": "/media/posts/6/responsive/back-md.jpg",
+        "type": "file",
+        "md5": "4a76506a32d05d282f3b81f371eaec8b"
+    },
+    {
+        "path": "/media/posts/6/responsive/back-sm.jpg",
+        "type": "file",
+        "md5": "a0a14ef4cea4178e841e0823d251f723"
+    },
+    {
+        "path": "/media/posts/6/responsive/back-xl.jpg",
+        "type": "file",
+        "md5": "a51383882b3c47edc86e58478e32999d"
+    },
+    {
+        "path": "/media/posts/6/responsive/back-xs.jpg",
+        "type": "file",
+        "md5": "ee686d53a56461ab9b0486f77a5f5618"
+    },
+    {
+        "path": "/media/posts/6/responsive/Template-Geahn-Daniel-2xl.jpg",
+        "type": "file",
+        "md5": "f9468aee45919026635a82f697c4e39d"
+    },
+    {
+        "path": "/media/posts/6/responsive/Template-Geahn-Daniel-lg.jpg",
+        "type": "file",
+        "md5": "dd54caee69979e8a97ecd142a5aaaaf3"
+    },
+    {
+        "path": "/media/posts/6/responsive/Template-Geahn-Daniel-md.jpg",
+        "type": "file",
+        "md5": "a6d4715113f7280beaeb0dcb271fcf8b"
+    },
+    {
+        "path": "/media/posts/6/responsive/Template-Geahn-Daniel-sm.jpg",
+        "type": "file",
+        "md5": "a1918f31002b44f6251daab296bfa9e3"
+    },
+    {
+        "path": "/media/posts/6/responsive/Template-Geahn-Daniel-xl.jpg",
+        "type": "file",
+        "md5": "f9468aee45919026635a82f697c4e39d"
+    },
+    {
+        "path": "/media/posts/6/responsive/Template-Geahn-Daniel-xs.jpg",
+        "type": "file",
+        "md5": "2a827af2130ddad6cbbae998df56b42f"
+    },
+    {
+        "path": "/media/posts/6/Template-Geahn-Daniel.jpg",
+        "type": "file",
+        "md5": "bfd988a1c52507d601742bd83d34c372"
+    },
+    {
+        "path": "media/posts/8",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/8/decisoes-2.jpeg",
+        "type": "file",
+        "md5": "a62c08d83a3f220a0d4ad020c16785e2"
+    },
+    {
+        "path": "media/posts/8/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/8/responsive/decisoes-2-2xl.jpeg",
+        "type": "file",
+        "md5": "988aad78fe8635a940c9b07d6d03535e"
+    },
+    {
+        "path": "/media/posts/8/responsive/decisoes-2-lg.jpeg",
+        "type": "file",
+        "md5": "75c4b8ad5135473892a937ac9e096416"
+    },
+    {
+        "path": "/media/posts/8/responsive/decisoes-2-md.jpeg",
+        "type": "file",
+        "md5": "5b9e0262e6a4fe899946913634485432"
+    },
+    {
+        "path": "/media/posts/8/responsive/decisoes-2-sm.jpeg",
+        "type": "file",
+        "md5": "db17b0ae8e2608852d3ca2d4a02edfc1"
+    },
+    {
+        "path": "/media/posts/8/responsive/decisoes-2-xl.jpeg",
+        "type": "file",
+        "md5": "549ae9eefd77fcfaea0e9a3b16299b76"
+    },
+    {
+        "path": "/media/posts/8/responsive/decisoes-2-xs.jpeg",
+        "type": "file",
+        "md5": "61ee962e46331bfcf33b33d136bf1ea3"
+    },
+    {
+        "path": "media/posts/9",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/9/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/9/responsive/smallville-2xl.jpg",
+        "type": "file",
+        "md5": "e2300d7e58fe0f5c449dd361aee63baf"
+    },
+    {
+        "path": "/media/posts/9/responsive/smallville-lg.jpg",
+        "type": "file",
+        "md5": "e2300d7e58fe0f5c449dd361aee63baf"
+    },
+    {
+        "path": "/media/posts/9/responsive/smallville-md.jpg",
+        "type": "file",
+        "md5": "51e1988d6707b4eee96d8f20ef22b575"
+    },
+    {
+        "path": "/media/posts/9/responsive/smallville-sm.jpg",
+        "type": "file",
+        "md5": "4efc90a187d935d7c83db91819bead92"
+    },
+    {
+        "path": "/media/posts/9/responsive/smallville-xl.jpg",
+        "type": "file",
+        "md5": "e2300d7e58fe0f5c449dd361aee63baf"
+    },
+    {
+        "path": "/media/posts/9/responsive/smallville-xs.jpg",
+        "type": "file",
+        "md5": "3635c4d8a19a8338c5da437d86c5bd8f"
+    },
+    {
+        "path": "/media/posts/9/smallville.jpg",
+        "type": "file",
+        "md5": "93fc4508adc844c7ef93b8aa8e0c6e86"
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/eu3.jpg",
+        "type": "file",
+        "md5": "2811ba27c8e480b1b5ac41e0277673c8"
+    },
+    {
+        "path": "/media/website/fallback-2.jpg",
+        "type": "file",
+        "md5": "c5bd98f0f67e6c554c0778ec162018fc"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/eu3-2xl.jpg",
+        "type": "file",
+        "md5": "c562cc87f4d8e3d142dc03acc22d935b"
+    },
+    {
+        "path": "/media/website/responsive/eu3-lg.jpg",
+        "type": "file",
+        "md5": "a65a28e912f117e30b6c81ad46967cc9"
+    },
+    {
+        "path": "/media/website/responsive/eu3-md.jpg",
+        "type": "file",
+        "md5": "2cfcf87a7c88697e2bfaf452ef0910ad"
+    },
+    {
+        "path": "/media/website/responsive/eu3-sm.jpg",
+        "type": "file",
+        "md5": "37fafaa1fce6387e5003991224a18d8f"
+    },
+    {
+        "path": "/media/website/responsive/eu3-xl.jpg",
+        "type": "file",
+        "md5": "d8277bb69abb21517024360cb3725825"
+    },
+    {
+        "path": "/media/website/responsive/eu3-xs.jpg",
+        "type": "file",
+        "md5": "1d5137e3b61b39e23f7430b3bbb7aad4"
+    },
+    {
+        "path": "/media/website/responsive/fallback-2-2xl.jpg",
+        "type": "file",
+        "md5": "a5ad2909513d351b0419b886429f0d78"
+    },
+    {
+        "path": "/media/website/responsive/fallback-2-lg.jpg",
+        "type": "file",
+        "md5": "3c2a6fb8acdccfe0e5994614aa34d518"
+    },
+    {
+        "path": "/media/website/responsive/fallback-2-md.jpg",
+        "type": "file",
+        "md5": "b16305b482578e79433b894530db7714"
+    },
+    {
+        "path": "/media/website/responsive/fallback-2-sm.jpg",
+        "type": "file",
+        "md5": "8073c7b4a7d7b8756dc5e454b2ff3173"
+    },
+    {
+        "path": "/media/website/responsive/fallback-2-xl.jpg",
+        "type": "file",
+        "md5": "a5ad2909513d351b0419b886429f0d78"
+    },
+    {
+        "path": "/media/website/responsive/fallback-2-xs.jpg",
+        "type": "file",
+        "md5": "742a2c8ca3e327c7e6eb5a121bba0c05"
+    },
+    {
+        "path": "pagina",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "pagina/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/pagina/2/index.html",
+        "type": "file",
+        "md5": "b058496d35c9e329d0caf19539ce18b3"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "31877f8277f53f3f45ae1a12a47cf13b"
+    },
+    {
+        "path": "seu-cliente-esta-no-digital",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/seu-cliente-esta-no-digital/index.html",
+        "type": "file",
+        "md5": "df0a633f2bd99393c64828156904b8a5"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "208b2bdba0dff7f064afe88171cfc95c"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "tags/anuncios",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/anuncios/index.html",
+        "type": "file",
+        "md5": "173a953cbd1514250b91be95864dc752"
+    },
+    {
+        "path": "tags/autenticidade",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/autenticidade/index.html",
+        "type": "file",
+        "md5": "daa418bb57925d8e67acd4a84523fd42"
+    },
+    {
+        "path": "tags/autentico",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/autentico/index.html",
+        "type": "file",
+        "md5": "56dcbff6d5b256b30e916baef06520a7"
+    },
+    {
+        "path": "tags/bio",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/bio/index.html",
+        "type": "file",
+        "md5": "9266c8171fad976e9de74df72ed12dee"
+    },
+    {
+        "path": "tags/biografia",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/biografia/index.html",
+        "type": "file",
+        "md5": "660429c1c64095f2c5c300d31fb64278"
+    },
+    {
+        "path": "tags/canva",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/canva/index.html",
+        "type": "file",
+        "md5": "dc58dd137750dae851c021a47b7fb7b9"
+    },
+    {
+        "path": "tags/chapolin-colorado",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/chapolin-colorado/index.html",
+        "type": "file",
+        "md5": "ed17893ecb4588eb002cb2c1c014359c"
+    },
+    {
+        "path": "tags/chaves",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/chaves/index.html",
+        "type": "file",
+        "md5": "7b8550d764926b9478a8c6a017c084b1"
+    },
+    {
+        "path": "tags/chega",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/chega/index.html",
+        "type": "file",
+        "md5": "7346109ca22a44ae960ae66923a32be6"
+    },
+    {
+        "path": "tags/chespirito",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/chespirito/index.html",
+        "type": "file",
+        "md5": "f18efae3d3fd867c91165c2b1747a36c"
+    },
+    {
+        "path": "tags/contact",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/contact/index.html",
+        "type": "file",
+        "md5": "aa330dd76587821706bdb4d68501d1cc"
+    },
+    {
+        "path": "tags/contato",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/contato/index.html",
+        "type": "file",
+        "md5": "a5ff0cdc535ceb0c9ce79a003a3b04c2"
+    },
+    {
+        "path": "tags/decisoes",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/decisoes/index.html",
+        "type": "file",
+        "md5": "3a6681d3fba761611c4a4be2df7200ac"
+    },
+    {
+        "path": "tags/design",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/design/index.html",
+        "type": "file",
+        "md5": "0d46fd7476df2b8b54354976d26f56d6"
+    },
+    {
+        "path": "tags/detox",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/detox/index.html",
+        "type": "file",
+        "md5": "4914d2304a64afbd1adffc74c2106845"
+    },
+    {
+        "path": "tags/digital",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/digital/index.html",
+        "type": "file",
+        "md5": "9c660ca0205ed82ed8c42c62250fcabd"
+    },
+    {
+        "path": "tags/email",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/email/index.html",
+        "type": "file",
+        "md5": "75d78fadf3d958bfd21bdb6f32b2a6f5"
+    },
+    {
+        "path": "tags/enough",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/enough/index.html",
+        "type": "file",
+        "md5": "0ab624d099ce40153b55351c9a4a9e58"
+    },
+    {
+        "path": "tags/estatico",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/estatico/index.html",
+        "type": "file",
+        "md5": "30cd1b3ee0a5d17526c14ed4ac5433a3"
+    },
+    {
+        "path": "tags/faculdade",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/faculdade/index.html",
+        "type": "file",
+        "md5": "c47cf7d24d43c9467ae56757daeb3587"
+    },
+    {
+        "path": "tags/fake",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/fake/index.html",
+        "type": "file",
+        "md5": "c3e417ab9691fb21f554c360b0187f84"
+    },
+    {
+        "path": "tags/geahn",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/geahn/index.html",
+        "type": "file",
+        "md5": "3e3477e795b4b4d2bf0f63dc6dcf36e2"
+    },
+    {
+        "path": "tags/geahn-daniel",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/geahn-daniel/index.html",
+        "type": "file",
+        "md5": "e2e09fbc169b3388cbb9b3f90d1c34fa"
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "7c8211cafa32939f5c0ba32e1bea9c1b"
+    },
+    {
+        "path": "tags/inspiracao",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/inspiracao/index.html",
+        "type": "file",
+        "md5": "43913306acfe02c5547d578c38fc4f2f"
+    },
+    {
+        "path": "tags/inspiration",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/inspiration/index.html",
+        "type": "file",
+        "md5": "e241ec4deed903d144034d94793564d7"
+    },
+    {
+        "path": "tags/mercado",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/mercado/index.html",
+        "type": "file",
+        "md5": "4b956996ad9d512b8feb0c05cde73844"
+    },
+    {
+        "path": "tags/modernizar",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/modernizar/index.html",
+        "type": "file",
+        "md5": "e004525ad2caabb687e093a9f1665f62"
+    },
+    {
+        "path": "tags/mudancas",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/mudancas/index.html",
+        "type": "file",
+        "md5": "7dbad548d6bda1389d82e8828d50aba2"
+    },
+    {
+        "path": "tags/negocios",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/negocios/index.html",
+        "type": "file",
+        "md5": "a0f487b77b2e259d29b1fac7a0e65e19"
+    },
+    {
+        "path": "tags/online",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/online/index.html",
+        "type": "file",
+        "md5": "b8ffd638cf1e8cc25094db16cbe3621d"
+    },
+    {
+        "path": "tags/passado",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/passado/index.html",
+        "type": "file",
+        "md5": "e9a1dfb1877071421baf76acdba8b534"
+    },
+    {
+        "path": "tags/patties",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/patties/index.html",
+        "type": "file",
+        "md5": "2888a46c6ca69251f42c407598b03852"
+    },
+    {
+        "path": "tags/pattiesburger",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/pattiesburger/index.html",
+        "type": "file",
+        "md5": "6410a67ae7715566fd20bb36199661da"
+    },
+    {
+        "path": "tags/portfolio",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/portfolio/index.html",
+        "type": "file",
+        "md5": "5b7a54a65bdb1dd4c469eff967f0917e"
+    },
+    {
+        "path": "tags/presenca",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/presenca/index.html",
+        "type": "file",
+        "md5": "d66489b35a93fe905eee406318005086"
+    },
+    {
+        "path": "tags/publii",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/publii/index.html",
+        "type": "file",
+        "md5": "46d9e118186962639c6d2602bf2d069f"
+    },
+    {
+        "path": "tags/quem",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/quem/index.html",
+        "type": "file",
+        "md5": "8fdf64c5065d0621441387109b6dea89"
+    },
+    {
+        "path": "tags/real",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/real/index.html",
+        "type": "file",
+        "md5": "782347bff0269a195c80119096a7093b"
+    },
+    {
+        "path": "tags/reciclagem",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/reciclagem/index.html",
+        "type": "file",
+        "md5": "e141e04f4a0fdca91912bc0fb5f86851"
+    },
+    {
+        "path": "tags/redesign",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/redesign/index.html",
+        "type": "file",
+        "md5": "0ff81d04c03a6f1c6059a2c93acc0a6a"
+    },
+    {
+        "path": "tags/sistemas-de-informacao",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/sistemas-de-informacao/index.html",
+        "type": "file",
+        "md5": "3a216bcc174971e102f975b25d2e3ec8"
+    },
+    {
+        "path": "tags/smallville",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/smallville/index.html",
+        "type": "file",
+        "md5": "682a84d171be89ec9c6f8cd9f82ad195"
+    },
+    {
+        "path": "tags/star-wars",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/star-wars/index.html",
+        "type": "file",
+        "md5": "cb873b8f7bb493d206d0b1e66f598d69"
+    },
+    {
+        "path": "tags/starwars",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/starwars/index.html",
+        "type": "file",
+        "md5": "c80918c459b6152b74d8ffe556374059"
+    },
+    {
+        "path": "tags/tecnologia",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/tecnologia/index.html",
+        "type": "file",
+        "md5": "9d39cf410a2319b2d4ab3540c496c1e3"
+    },
+    {
+        "path": "tags/tendencia",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/tendencia/index.html",
+        "type": "file",
+        "md5": "172ccfe61b7f31fbb3540ff9fcafd4ff"
+    },
+    {
+        "path": "tags/tendencias",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/tendencias/index.html",
+        "type": "file",
+        "md5": "7664f766e70ac4a79fdb88ed81abd795"
+    },
+    {
+        "path": "tags/webdesign",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/webdesign/index.html",
+        "type": "file",
+        "md5": "952b4267954a1292ac7278067eb748cc"
+    },
+    {
+        "path": "tags/wordpress",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/wordpress/index.html",
+        "type": "file",
+        "md5": "0d73968ae731a28ed7a4306182a2e93f"
+    },
+    {
+        "path": "tome-suas-proprias-decisoes",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tome-suas-proprias-decisoes/index.html",
+        "type": "file",
+        "md5": "39a40f5fc182a6751f827b6b6a77c42d"
+    },
+    {
+        "path": "transformando-hobbies-em-profissao",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/transformando-hobbies-em-profissao/index.html",
+        "type": "file",
+        "md5": "928e8838e9409184dcf8e296ed43ece6"
+    },
+    {
+        "path": "webdesign-modernizando-o-passado",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/webdesign-modernizando-o-passado/index.html",
+        "type": "file",
+        "md5": "177107282dfb21232d7e34ce1fa71151"
+    }
+]

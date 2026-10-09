@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Made in Krypton</title>
+    <link>https://geahn.com/podcast</link>
+    <description>Diretamente de Krypton, este é o podcast diário que mergulha no universo do Superman com notícias, curiosidades, histórias e tudo o que envolve o Homem de Aço.</description>
+    <language>pt-br</language>
+    <copyright>© 2025 Geahn Daniel</copyright>
+    <itunes:author>Geahn Daniel</itunes:author>
+    <itunes:owner>
+      <itunes:name>Geahn Daniel</itunes:name>
+      <itunes:email>contato@geahn.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://iili.io/FW66ChP.png"/>
+    <itunes:category>
+      <itunes:category text="Personal Journals"/>
+    </itunes:category>
+    <item>
+      <title>Superman em Destaque: Novidades e Futuro no Multiverso - 28/10/25</title>
+      <description><![CDATA[Dani-EL e Laurinha trazem as últimas notícias do universo do Superman e da DC. Discutimos campanhas inspiradoras, o sucesso de outras franquias e o futuro promissor com Pacificador e novas produções. Fique por dentro de tudo no Made in Krypton Podcast!]]></description>
+      <pubDate>Tue, 28 Oct 2025 17:05:18 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast10@main/28_10_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast10@main/28_10_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Superman em Crise? Novidades do DCU e um Toque de Humor Kryptoniano - 23/10/25</title>
+      <description><![CDATA[Dani-EL e Laurinha dissecam as críticas ao Superman de Zack Snyder, especulam sobre o futuro do DCU com James Gunn e até encontram um 'Superman' no futebol. Uma conversa leve e rápida sobre o universo do Homem de Aço e seus derivados. Curte e segue a gente no Insta!]]></description>
+      <pubDate>Thu, 23 Oct 2025 17:05:35 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast10@main/23_10_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast10@main/23_10_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Superman: Trauma, Poder e o Lado Sombrio da DC - 20/10/25</title>
+      <description><![CDATA[Dani-EL e Laurinha mergulham nas profundezas do universo Superman, discutindo histórias chocantes, comparações com outros heróis e até a censura de Kryptonita durante a Segunda Guerra Mundial. Uma conversa rápida e descontraída sobre o Homem de Aço.]]></description>
+      <pubDate>Mon, 20 Oct 2025 17:13:05 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast10@main/20_10_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast10@main/20_10_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Superman no Multiverso DC: Conexões e Debates no Made in Krypton - 17/10/25</title>
+      <description><![CDATA[Dani-EL e Laurinha trazem as últimas novidades sobre o universo do Superman e da DC, discutindo o futuro do Homem de Aço e as conexões entre filmes e séries. Uma conversa rápida e descontraída sobre o que importa para os fãs, diretamente do Made in Krypton Podcast.]]></description>
+      <pubDate>Fri, 17 Oct 2025 17:21:50 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast10@main/17_10_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast10@main/17_10_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Superman em Novidades DC: Cruzamentos Inesperados e Futuros Brilhantes - 15/10/25</title>
+      <description><![CDATA[Dani-EL e Laurinha debatem os anúncios recentes da DC sobre crossovers inusitados envolvendo o Superman e personagens como Capitão Pátria, Vampirella e Sub-Zero. Analisam como o final de Peacemaker pode ter antecipado um futuro encontro com o Kaléu no cinema, e comentam uma foto intrigante de John Cena com David Corenswet. Um papo rápido e direto sobre o universo do Homem de Aço!]]></description>
+      <pubDate>Wed, 15 Oct 2025 17:05:50 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast10@main/15_10_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast10@main/15_10_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Novidades do DCU: Superman, Pacificador e a Casa EL! - 13/10/25</title>
+      <description><![CDATA[Dani-EL e Laurinha destrincham as últimas novidades do universo DC, com foco em 'Superman', as aparições do Pacificador e o futuro do DCU. Uma conversa rápida e direta para os fãs mais antenados!]]></description>
+      <pubDate>Mon, 13 Oct 2025 17:05:52 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast10@main/13_10_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast10@main/13_10_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Superman em Destaque: Crossovers, Arrecadação e Inspiração no Mundo Real - 09/10/25</title>
+      <description><![CDATA[No Made in Krypton Podcast, Dani-EL e Laurinha comentam sobre o aguardado crossover entre Superman e Homem-Aranha, a performance de Demon Slayer nos cinemas, e como o Homem de Aço continua inspirando no UFC e em HQs. Uma conversa rápida sobre o nosso herói favorito. Este episódio é gerado por IA.]]></description>
+      <pubDate>Thu, 09 Oct 2025 17:05:02 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast10@main/09_10_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast10@main/09_10_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Superman, Supergirl e o Multiverso em Alta! - 06/10/25</title>
+      <description><![CDATA[Dani-EL e Laurinha comentam as últimas novidades sobre o universo do Superman, incluindo campanhas de adoção, o aguardado filme da Supergirl e a audiência de Superman e Pacificador na HBO Max. Uma conversa rápida e divertida para fãs!]]></description>
+      <pubDate>Mon, 06 Oct 2025 18:21:13 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast10@main/06_10_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast10@main/06_10_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Superman Quebra Recordes e Crossovers que Agitam o DCU - 01/10/25</title>
+      <description><![CDATA[Dani-EL e Laurinha comentam o sucesso estrondoso do filme do Superman no streaming, quebrando recordes. Além disso, dão uma pincelada sobre o crossover de Pacificador que promete explicar o futuro do novo Superman e a participação de um ator de Batman vs Superman em outro projeto.]]></description>
+      <pubDate>Wed, 01 Oct 2025 19:53:36 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast10@main/01_10_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast10@main/01_10_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>James Gunn, o novo Superman e um Cameo Controversa em Peacemaker - 30/09/25</title>
+      <description><![CDATA[Neste episódio do Made in Krypton, Dani-EL e Laurinha discutem os comentários de James Gunn sobre o universo DC, especialmente em relação ao Superman e o controverso cameo em Peacemaker. Vamos desvendar os mistérios por trás da escalação e o futuro do Homem de Aço no cinema. Ouça agora!]]></description>
+      <pubDate>Tue, 30 Sep 2025 17:05:43 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast09@main/30_09_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast09@main/30_09_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Superman Nazi em Terra-X e a DC - 29/09/25</title>
+      <description><![CDATA[Dani-EL e Laurinha discutem a surpreendente aparição de um Superman nazista em Terra-X e como isso se encaixa no universo DC das séries. Uma conversa rápida e descontraída sobre heróis e vilões alternativos, direta de Krypton para você!]]></description>
+      <pubDate>Mon, 29 Sep 2025 17:05:51 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast09@main/29_09_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast09@main/29_09_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Novidades do DCU: Pacificador e o futuro do Superman! - 27/09/25</title>
+      <description><![CDATA[Dani-EL e Laurinha debatem as últimas notícias do Universo DC, com foco na ausência de Superman em 'O Pacificador' e o novo intérprete do Homem de Aço. Descubra o que James Gunn planeja para o futuro! Conectando tudo no Made in Krypton Podcast.]]></description>
+      <pubDate>Sat, 27 Sep 2025 18:47:53 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast09@main/27_09_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast09@main/27_09_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Pacificador, Superman e Acessibilidade: Novidades do Universo DC - 26/09/25</title>
+      <description><![CDATA[Dani-EL e Laurinha comentam a participação de um personagem de Superman em O Pacificador, Krypto e a importância da acessibilidade em filmes. Um papo rápido sobre o que movimenta o universo DC e o cinema. Ouçam nosso podcast diário!]]></description>
+      <pubDate>Fri, 26 Sep 2025 17:05:38 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast09@main/26_09_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast09@main/26_09_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Super-homem: O Futuro do Homem de Aço e o Retorno de Braniac - 24/09/25</title>
+      <description><![CDATA[Dani-EL e Laurinha mergulham nas últimas notícias sobre o futuro do Super-homem, com foco no roteiro de James Gunn e a possível ameaça de Braniac. Descubra o que está por vir para o nosso herói kryptoniano neste episódio rápido e descontraído do Made in Krypton Podcast.]]></description>
+      <pubDate>Wed, 24 Sep 2025 17:05:05 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast09@main/24_09_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast09@main/24_09_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Superman: O Desafio de Escalar o Homem de Aço e Novidades do Universo DC - 23/09/25</title>
+      <description><![CDATA[Dani-EL e Laurinha discutem os desafios de escalar o novo Superman de James Gunn, comparando com Batman e especulando sobre futuros vilões. Fique por dentro das novidades do universo DC neste episódio rápido do Made in Krypton Podcast!]]></description>
+      <pubDate>Tue, 23 Sep 2025 17:05:07 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast09@main/23_09_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast09@main/23_09_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Superman: Novidades do Homem de Aço na TV e Streaming - 22/09/25</title>
+      <description><![CDATA[Dani-EL e Laurinha comentam sobre o novo filme do Superman disponível na HBO Max, a expectativa para o futuro do herói com James Gunn e homenagens no universo DC. Fiquem ligados para mais novidades do Made in Krypton!]]></description>
+      <pubDate>Mon, 22 Sep 2025 17:05:54 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast09@main/22_09_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast09@main/22_09_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Superman 2025: Desvendando os mistérios do novo filme! - 21/09/25</title>
+      <description><![CDATA[Neste episódio do Made in Krypton Podcast, Dani-EL e Laurinha mergulham nas novidades sobre o aguardado filme do Superman 2025. Vamos analisar o que realmente importa e o que esperar dessa nova aventura do Homem de Aço!]]></description>
+      <pubDate>Sun, 21 Sep 2025 18:28:54 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast09@main/21_09_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast09@main/21_09_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Superman de James Gunn Chega ao Streaming e Novidades da DC - 20/09/25</title>
+      <description><![CDATA[Dani-EL e Laurinha comentam a estreia do novo filme do Superman no Brasil, os planos de James Gunn para o DCU e curiosidades sobre o herói.]]></description>
+      <pubDate>Sat, 20 Sep 2025 17:05:44 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast09@main/20_09_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast09@main/20_09_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Superman a Caminho do Streaming e Novidades DC! - 18/09/25</title>
+      <description><![CDATA[Dani-EL e Laurinha comentam a ansiosa estreia de Superman nos cinemas e a chegada da produção ao streaming, além de pitacos sobre Supergirl e a conexão com Pacificador. Fique por dentro do universo DC!]]></description>
+      <pubDate>Thu, 18 Sep 2025 17:05:58 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast09@main/18_09_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast09@main/18_09_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Superman 2025: Chegou aos cinemas e já no streaming! E novidades do elenco! - 17/09/25</title>
+      <description><![CDATA[Dani-EL e Laurinha comentam a chegada de Superman 2025 ao Prime Video e as últimas novidades sobre o elenco, com destaque para Nicholas Hoult como Lex Luthor e a Supergirl de Milly Alcock. Uma conversa rápida e divertida sobre o universo DC.]]></description>
+      <pubDate>Wed, 17 Sep 2025 17:05:27 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast09@main/17_09_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast09@main/17_09_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Superman, Lanterna Verde e Novidades do Universo DC - 16/09/25</title>
+      <description><![CDATA[Dani-EL e Laurinha batem um papo rápido sobre a aparição do Lanterna Verde no trailer do novo Superman, a participação de Sara Sampaio e as últimas novidades do universo DC nos cinemas e na HBO Max. Fique por dentro de tudo com o Made in Krypton!]]></description>
+      <pubDate>Tue, 16 Sep 2025 17:05:01 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast09@main/16_09_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast09@main/16_09_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Dani-EL e Laurinha Discutem Elenco de Superman e Lex Luthor - 15/09/25</title>
+      <description><![CDATA[Dani-EL e Laurinha do Made in Krypton Podcast trazem as últimas novidades sobre o universo Superman. Descubra a melhor escolha de elenco de James Gunn e os rumos de Lex Luthor no próximo filme do Homem de Aço. Um bate-papo rápido e divertido, direto de Krypton!]]></description>
+      <pubDate>Mon, 15 Sep 2025 17:05:50 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast09@main/15_09_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast09@main/15_09_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Man of Tomorrow em Destaque: James Gunn Revela Novidades! - 13/09/25</title>
+      <description><![CDATA[James Gunn traz novidades eletrizantes sobre Man of Tomorrow! Descubra as duplas inesperadas, conexões com Pacificador e os elogios à Supergirl. Tudo isso e muito mais no Made in Krypton Podcast, seu portal diário para o universo DC!]]></description>
+      <pubDate>Sat, 13 Sep 2025 17:05:15 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast09@main/13_09_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast09@main/13_09_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Superman: Man of Tomorrow Revela Detalhes Surpreendentes! - 12/09/25</title>
+      <description><![CDATA[Preparem-se para novidades quentes do universo do homem de aço! James Gunn solta pistas sobre a sequência de Superman, 'Man of Tomorrow'. Clark Kent e Lex Luthor podem estar lado a lado? E o grande vilão? As filmagens estão chegando! Tudo isso e mais no podcast que te conecta com o que acontece em Krypton. Este episódio foi gerado por inteligência artificial.]]></description>
+      <pubDate>Fri, 12 Sep 2025 17:05:06 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast09@main/12_09_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast09@main/12_09_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Superman e Lex Luthor: Uma Nova Aliança Inesperada Revelada - 11/09/25</title>
+      <description><![CDATA[James Gunn solta detalhes bombásticos sobre a sequência de Superman, revelando uma parceria surpreendente entre Clark Kent e Lex Luthor. Preparem-se para uma nova dinâmica no universo DC!]]></description>
+      <pubDate>Thu, 11 Sep 2025 17:05:09 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast09@main/11_09_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast09@main/11_09_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Superman em Destaque: Lucros e Novidades do Homenzinho de Aço - 10/09/25</title>
+      <description><![CDATA[Dani-EL e Laurinha comentam os últimos rumores e confirmações sobre o universo do ˈsupərmən, incluindo o sucesso financeiro de um recente filme, planos para sequências e a presença de vilões icônicos como Lex Luthor. Fique por dentro de tudo que rola no mundo do Kaléu!]]></description>
+      <pubDate>Wed, 10 Sep 2025 17:05:50 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast09@main/10_09_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast09@main/10_09_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Superman 2: Vilões, Crossovers e os Bastidores de James Gunn - 09/09/25</title>
+      <description><![CDATA[Dani-EL e Laurinha comentam os rumores sobre o vilão de Superman 2, possíveis crossovers épicos com Lobo e Supergirl, e as declarações de James Gunn sobre a dificuldade do filme. Também dão uma olhada no desempenho de bilheteria e em curiosidades do universo DC. Ouça o podcast diário do Made in Krypton!]]></description>
+      <pubDate>Tue, 09 Sep 2025 17:05:58 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast09@main/09_09_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast09@main/09_09_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Superman Sabe Quem Vem Aí - 08/09/25</title>
+      <description><![CDATA[O futuro do Superman no cinema está fervendo! James Gunn dá pistas sobre a sequência de Superman, com a possível chegada de Lobo, Supergirl e até o Pacificador. Descubra como Peacemaker se conecta a tudo isso e o que esperar do novo DCU.]]></description>
+      <pubDate>Mon, 08 Sep 2025 18:38:23 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast09@main/08_09_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast09@main/08_09_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Superman de James Gunn agita o universo DC e quebra recordes em 2025! - 02/09/25</title>
+      <description><![CDATA[Dani-EL e Laurinha comentam as últimas novidades do universo Superman, incluindo o trailer da segunda temporada de Peacemaker, o sucesso de bilheteria do novo Superman, novidades sobre o uniforme e o legado de Smallville. Um papo rápido e informativo para os fãs de Krypton!]]></description>
+      <pubDate>Tue, 02 Sep 2025 17:05:03 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast09@main/02_09_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast09@main/02_09_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Superman em Alta e Novidades do DCU no Made in Krypton! - 01/09/25</title>
+      <description><![CDATA[Dani-EL e Laurinha esquentam as turbinas do Made in Krypton Podcast! Falamos da estreia de Quarteto Fantástico batendo Superman nas bilheterias, George R.R. Martin elogiando o novo Superman de James Gunn, e as primeiras pistas sobre Supergirl. Um papo rápido e direto, direto de Krypton!]]></description>
+      <pubDate>Mon, 01 Sep 2025 17:05:54 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast09@main/01_09_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast09@main/01_09_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Made in Krypton: James Gunn, DCU e o Futuro do Superman - 30/08/25</title>
+      <description><![CDATA[Dani-EL e Laurinha comentam as últimas novidades sobre o novo filme do Superman, os planos de James Gunn para o DCU e as conexões com outros personagens. Fique por dentro de tudo que está rolando no universo do Homem de Aço!]]></description>
+      <pubDate>Sat, 30 Aug 2025 17:05:32 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast08@main/30_08_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast08@main/30_08_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Superman: Bilheteria Global e Elogios - 29/08/25</title>
+      <description><![CDATA[Dani-EL e Laurinha do Made in Krypton Podcast comentam a impressionante bilheteria global do novo filme do Superman, que já ultrapassou os 400 milhões de dólares. Além disso, discutem os elogios de um líder da Marvel ao filme e o posicionamento de James Gunn sobre a arrecadação internacional. Tudo isso em um bate-papo rápido e descontraído, gerado por IA!]]></description>
+      <pubDate>Fri, 29 Aug 2025 17:05:32 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast08@main/29_08_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast08@main/29_08_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Made in Krypton: O Futuro do DCU e Lembranças de Um Ícone - 27/08/25</title>
+      <description><![CDATA[Dani-EL e Laurinha mergulham nas últimas novidades do universo DC, discutindo as aspirações de um Batman ex-Superman para o novo DCU e celebrando o legado de um certo herói de capa vermelha. Fique por dentro de tudo no nosso podcast diário!]]></description>
+      <pubDate>Wed, 27 Aug 2025 17:05:49 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast08@main/27_08_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast08@main/27_08_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Novidades do Multiverso DC e a Família Superman - 24/08/25</title>
+      <description><![CDATA[Dani-EL e Laurinha do Made in Krypton Podcast te trazem as últimas sobre Maxwell Lord, Peacemaker e o futuro do homem de aço. E aí, preparado para mergulhar no universo DC?]]></description>
+      <pubDate>Sun, 24 Aug 2025 21:12:37 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast08@main/24_08_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast08@main/24_08_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Superman, Bilheteria e Novidades em Krypton - 23/08/25</title>
+      <description><![CDATA[Dani-EL e Laurinha trazem as últimas de Hollywood, discutindo a bilheteria de filmes de heróis e as novidades sobre o novo Superman. Uma dose diária de notícias do mundo geek direto do Made in Krypton Podcast, apresentado por IA!]]></description>
+      <pubDate>Sat, 23 Aug 2025 17:05:12 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast08@main/23_08_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast08@main/23_08_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Novidades do Universo Superman com James Gunn e o Legado de Chadwick Boseman - 22/08/25</title>
+      <description><![CDATA[Dani-EL e Laurinha trazem as últimas de Superman, a confirmação da Liga da Justiça no novo filme de James Gunn, o futuro de Pacificador e um tributo a Chadwick Boseman pela produtora de Superman. Um resumo rápido direto de Krypton!]]></description>
+      <pubDate>Fri, 22 Aug 2025 18:40:42 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast08@main/22_08_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast08@main/22_08_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Superman: Uma Nova Era no Cinema e Poderes Inexplorados - 21/08/25</title>
+      <description><![CDATA[Dani-EL e Laurinha discutem os planos de James Gunn para uma quadrilogia do Superman, o impacto dessa notícia e exploram os poderes subutilizados do nosso herói kryptoniano no cinema. Fique por dentro das novidades do universo DC!]]></description>
+      <pubDate>Thu, 21 Aug 2025 17:05:48 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast08@main/21_08_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast08@main/21_08_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Superman: O Legado e o Futuro com James Gunn - 20/08/25</title>
+      <description><![CDATA[Dani-EL e Laurinha exploram as novidades sobre o universo DC com James Gunn, as diferenças entre DCU e MCU, e o significado de Superman como um símbolo de resistência. Descubra o que vem por aí para o Homem de Aço neste bate-papo divertido. Feito com inteligência artificial!]]></description>
+      <pubDate>Wed, 20 Aug 2025 17:05:01 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast08@main/20_08_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast08@main/20_08_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Made in Krypton: Zod se foi, mas o Super continua voando alto! - 19/08/25</title>
+      <description><![CDATA[Dani-EL e Laurinha do Made in Krypton Podcast batem um papo rápido sobre a recente notícia do falecimento de Terence Stamp, o vilão General Zod, e como isso impacta o universo do SuperHomem. Também dão uma olhada na bilheteria do filme!]]></description>
+      <pubDate>Tue, 19 Aug 2025 17:05:19 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast08@main/19_08_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast08@main/19_08_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Terence Stamp, o General Zod, e o Legado no Universo DC - 18/08/25</title>
+      <description><![CDATA[Dani-EL e Laurinha batem um papo rápido sobre a notícia do falecimento de Terence Stamp, o icônico General Zod, e relembram sua importância no universo Superman e DC. Um tributo rápido no Made in Krypton Podcast.]]></description>
+      <pubDate>Mon, 18 Aug 2025 17:05:54 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast08@main/18_08_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast08@main/18_08_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Kriptonita Real e o Novo Superman de James Gunn - 16/08/25</title>
+      <description><![CDATA[Dani-EL e Laurinha debatem a descoberta de um mineral similar à kriptonita e as novidades sobre o filme Superman de James Gunn. Um bate-papo rápido e direto do Made in Krypton Podcast!]]></description>
+      <pubDate>Sat, 16 Aug 2025 17:06:00 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast08@main/16_08_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast08@main/16_08_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Superman no Streaming e Novidades do DCU - 15/08/25</title>
+      <description><![CDATA[Dani-EL e Laurinha comentam a chegada antecipada de Superman no streaming, as primeiras imagens da Supergirl e um spoiler do vilão do novo filme, além de uma pitada sobre o Batman de Robert Pattinson. Tudo isso no seu podcast diário direto de Krypton!]]></description>
+      <pubDate>Fri, 15 Aug 2025 17:05:28 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast08@main/15_08_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast08@main/15_08_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Superman Saga Ganha Novas Informações e DC se Prepara para Produção - 14/08/25</title>
+      <description><![CDATA[James Gunn revela detalhes sobre a saga Superman, com início de produção em breve. Laurinha e Dani-EL comentam as novidades e o futuro do herói no cinema e streaming. Fique ligado no Made in Krypton!]]></description>
+      <pubDate>Thu, 14 Aug 2025 17:05:03 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast08@main/14_08_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast08@main/14_08_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Superman Renovado e Novidades do Universo DC - 13/08/25</title>
+      <description><![CDATA[Dani-EL e Laurinha exploram a nova abordagem teológica e filosófica do Superman, as notícias sobre a chegada do filme ao digital e os curtas do Krypto. Uma conversa rápida e descontraída sobre o Homem de Aço e seu universo.]]></description>
+      <pubDate>Wed, 13 Aug 2025 17:05:07 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast08@main/13_08_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast08@main/13_08_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Made in Krypton: Notícias do Multiverso do Superman - 12/08/25</title>
+      <description><![CDATA[Dani-EL e Laurinha trazem as últimas novidades do mundo do ˈsupərmən, com comentários sobre seu impacto na cultura pop, exibições e as complexidades de seu universo. Um bate-papo rápido direto de Krypton!]]></description>
+      <pubDate>Tue, 12 Aug 2025 17:05:36 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast08@main/12_08_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast08@main/12_08_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Superman: Bilheteria Brasil e Notícias Internacionais - 11/08/25</title>
+      <description><![CDATA[Dani-EL e Laurinha discutem o sucesso de Superman no Brasil, ultrapassando 4 milhões de espectadores, e as novidades sobre o filme, incluindo o desempenho global e uma menção a John Oliver. Um bate-papo rápido e informativo sobre o Homem de Aço.]]></description>
+      <pubDate>Mon, 11 Aug 2025 17:05:49 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast08@main/11_08_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast08@main/11_08_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Superman em Novas Aventuras e o Mistério Interestelar! - 09/08/25</title>
+      <description><![CDATA[Dani-EL e Laurinha comentam o vazamento de imagens do novo uniforme do Homem-Aranha, a busca do Quarteto Fantástico contra o Superman nos cinemas e um intrigante objeto interestelar avistado pela NASA. Fique por dentro do universo DC e das novidades espaciais!]]></description>
+      <pubDate>Sat, 09 Aug 2025 17:05:55 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast08@main/09_08_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast08@main/09_08_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Novidades do Mundo do Superman: Novo Filme e a Super Família em Destaque! - 08/08/25</title>
+      <description><![CDATA[Dani-EL e Laurinha trazem as últimas notícias do universo do Homem de Aço! James Gunn assume o comando do próximo capítulo do Superman, com foco na Super Família. Descubra também curiosidades sobre uniformes e o futuro do personagem.]]></description>
+      <pubDate>Fri, 08 Aug 2025 17:05:16 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast08@main/08_08_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast08@main/08_08_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Superman nos cinemas e no mundo real - 07/08/25</title>
+      <description><![CDATA[Um papo leve sobre os novos projetos do Superman, a expectativa para o filme do James Gunn e uma surpresa vinda do ator Dean Cain que interpretou o ˈsupərmən nos anos 90.]]></description>
+      <pubDate>Thu, 07 Aug 2025 17:05:14 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast08@main/07_08_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast08@main/07_08_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>James Gunn e o Futuro do Homem de Aço - 05/08/25</title>
+      <description><![CDATA[Dani-EL e Laurinha dissecam as últimas novidades sobre o novo filme do Superman de James Gunn no DCU. Descubra o que os fãs estão dizendo e os marcos importantes alcançados pela produção. Um papo rápido e direto para os amantes do Kryptoniano!]]></description>
+      <pubDate>Tue, 05 Aug 2025 17:05:47 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast08@main/05_08_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast08@main/05_08_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Superman não é Superman 2! - 04/08/25</title>
+      <description><![CDATA[Dani-EL e Laurinha desvendam os rumores sobre a sequência de Superman com James Gunn, que surpreendentemente não será uma continuação direta. Descubra os detalhes neste episódio do Made in Krypton Podcast!]]></description>
+      <pubDate>Mon, 04 Aug 2025 17:05:44 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast08@main/04_08_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast08@main/04_08_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Made in Krypton: Novidades do Superman e Cultura Pop! - 02/08/25</title>
+      <description><![CDATA[Dani-EL e Laurinha trazem as últimas de Superman: O Legado, coleções digitais da DC e curiosidades do mundo pop em um bate-papo rápido e descontraído. Fique por dentro de tudo que envolve o Homem de Aço!]]></description>
+      <pubDate>Sat, 02 Aug 2025 17:05:37 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast08@main/02_08_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast08@main/02_08_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Superman no Esporte e no Cinema: Uma Nova Era! - 01/08/25</title>
+      <description><![CDATA[Dani-EL e Laurinha do Made in Krypton Podcast discutem a influência do Superman no futebol baiano e as reações de Hideo Kojima ao novo filme do herói. Novidades sobre produtos e inspirações.]]></description>
+      <pubDate>Fri, 01 Aug 2025 17:05:38 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast08@main/01_08_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast08@main/01_08_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Novidades do DCU e o Novo Superman! - 31/07/25</title>
+      <description><![CDATA[Dani-EL e Laurinha trazem as últimas do universo DC! James Gunn detalha a linha do tempo do DCU, Nicholas Hoult como vilão do Superman e as expectativas para o novo filme. Fique ligado no Made in Krypton Podcast!]]></description>
+      <pubDate>Thu, 31 Jul 2025 17:05:02 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast07@main/31_07_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast07@main/31_07_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Superman em Destaque: Bilheteria e Legado - 30/07/25</title>
+      <description><![CDATA[Dani-EL e Laurinha discutem o desempenho do Quarteto Fantástico nas bilheterias brasileiras, a eterna comparação com o Superman, e curiosidades sobre o universo do Homem de Aço. Um papo rápido e direto para os fãs mais atentos!]]></description>
+      <pubDate>Wed, 30 Jul 2025 17:05:53 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast07@main/30_07_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast07@main/30_07_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Superman em Destaque: Bilheteria, Filmes e Rumores! - 29/07/25</title>
+      <description><![CDATA[Dani-EL e Laurinha comentam o sucesso de bilheteria de Superman, a escolha do filme de 1978 como melhor de todos os tempos, reações a novas versões e até rumores de romance! Um bate-papo rápido direto do Made in Krypton Podcast.]]></description>
+      <pubDate>Tue, 29 Jul 2025 17:05:15 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast07@main/29_07_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast07@main/29_07_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>O futuro do DCU com um toque de punk rock! - 28/07/25</title>
+      <description><![CDATA[Dani-EL e Laurinha comentam as últimas notícias do universo DC, incluindo os metahumanos em um mural misterioso, a performance de Iggy Pop e o andamento de 'The Brave and the Bold'. Uma conversa leve e rápida sobre o mundo do Superman e Batman. Siga a gente no Instagram! Made in Krypton Podcast, o seu podcast diário.]]></description>
+      <pubDate>Mon, 28 Jul 2025 13:23:48 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast07@main/28_07_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast07@main/28_07_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Novidades do Multiverso DC com Superman e James Gunn - 26/07/25</title>
+      <description><![CDATA[Dani-EL e Laurinha batem um papo rápido sobre as últimas notícias do universo DC, incluindo o futuro do Superman com James Gunn, o sucesso de bilheteria de filmes e séries e um vislumbre da nova Sala da Justiça. Fique por dentro do Made in Krypton Podcast!]]></description>
+      <pubDate>Sat, 26 Jul 2025 17:05:13 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast07@main/26_07_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast07@main/26_07_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Novidades do Homem de Aço e o Mundo do Jornalismo - 25/07/25</title>
+      <description><![CDATA[Dani-EL e Laurinha batem um papo rápido sobre as últimas notícias envolvendo o ˈsupərmən , incluindo o impacto cultural do personagem e como seus dilemas se conectam com o jornalismo. Descubra curiosidades sobre o filme e acompanhe o Made in Krypton nas redes sociais!]]></description>
+      <pubDate>Fri, 25 Jul 2025 17:05:29 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast07@main/25_07_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast07@main/25_07_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Made in Krypton: Quem Desafia o Supa-Man? - 24/07/25</title>
+      <description><![CDATA[Dani-EL e Laurinha batem um papo rápido sobre os desafios enfrentados pelo Supa-Man, a importância de ser uma boa pessoa e o legado de Lois Lane. E claro, novidades do universo DC!  Nos siga no Instagram!]]></description>
+      <pubDate>Thu, 24 Jul 2025 17:21:03 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast07@main/24_07_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast07@main/24_07_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Superman 2025: Sucesso nas Bilheterias e Novidades Quentíssimas! - 23/07/25</title>
+      <description><![CDATA[Dani-EL e Laurinha batem um papo rápido e descontraído sobre o sucesso estrondoso do novo filme do Superman nas bilheterias, o lançamento em 4K Blu-ray Steelbook e a visita especial de um fã mirim ao elenco. Uma dose diária de novidades do universo do Homem de Aço!]]></description>
+      <pubDate>Wed, 23 Jul 2025 17:05:55 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast07@main/23_07_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast07@main/23_07_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Superman em Alta nas Bilheterias e Discussões Online - 22/07/25</title>
+      <description><![CDATA[Dani-EL e Laurinha comentam o sucesso do novo filme do Superman, a recepção do público, o papel de Krypto e a repercussão online. Uma conversa rápida e informativa sobre o Homem de Aço.]]></description>
+      <pubDate>Tue, 22 Jul 2025 17:05:11 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast07@main/22_07_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast07@main/22_07_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Novidades do Planeta Ação: Superman, DC Studios e Mais! - 21/07/25</title>
+      <description><![CDATA[Dani-EL e Laurinha trazem as últimas notícias do universo DC. Descubra os bastidores do novo Superman, novidades sobre o DC Studios e curiosidades sobre o kryptoniano mais amado. Fique ligado no nosso podcast diário!]]></description>
+      <pubDate>Mon, 21 Jul 2025 17:43:56 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast07@main/21_07_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast07@main/21_07_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Super-Homem: O Novo Kal-El Chegou! - 20/07/25</title>
+      <description><![CDATA[Dani-EL e Laurinha destrincham as novidades sobre o novo Super-Homem com David Corenswet, a importância de Lois Lane e o que esperar do futuro do Homem de Aço. Um bate-papo leve e rápido para os fãs do universo DC. Esse é o seu podcast diário Made in Krypton!]]></description>
+      <pubDate>Sun, 20 Jul 2025 17:33:52 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast07@main/20_07_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast07@main/20_07_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>O Novo Superman em Destaque: Estreia, Polêmicas e Novidades do Multiverso - 19/07/25</title>
+      <description><![CDATA[Dani-EL e Laurinha do Made in Krypton Podcast batem um papo rápido sobre o aguardado filme Superman, sua data de estreia no streaming, as discussões online e o futuro do herói no cinema. Uma conversa leve sobre o universo DC.]]></description>
+      <pubDate>Sat, 19 Jul 2025 17:52:07 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast07@main/19_07_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast07@main/19_07_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Superman em Alta e Novidades do DCU! - 18/07/25</title>
+      <description><![CDATA[Dani-EL e Laurinha batem um papo rápido sobre o sucesso de Superman, o aumento nas produções do DCU, a química em cena e novidades sobre a Supergirl. Fique por dentro de tudo!]]></description>
+      <pubDate>Fri, 18 Jul 2025 17:05:29 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast07@main/18_07_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast07@main/18_07_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Supergirl Chega ao DCU e Superman Quebra Recordes! - 17/07/25</title>
+      <description><![CDATA[Dani-EL e Laurinha trazem as últimas do universo do Homem de Aço! Descubra tudo sobre o novo pôster da Supergirl, o sucesso de bilheteria do Superman e curiosidades sobre a personagem Cat Grant. Fique por dentro do futuro do DCU!]]></description>
+      <pubDate>Tue, 17 Jul 2025 14:00:00 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast07@main/17_07_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast07@main/17_07_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Novidades do Multiverso DC: Superman, Supergirl e Mais! - 16/07/25</title>
+      <description><![CDATA[Dani-EL e Laurinha trazem as últimas notícias do mundo DC, com foco no novo filme do Superman, a chegada da Supergirl e os bastidores de Hollywood. Ouça agora o podcast diário do Made in Krypton!]]></description>
+      <pubDate>Tue, 16 Jul 2025 14:00:00 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast07@main/16_07_2025.wav" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast07@main/16_07_2025.wav</guid>
+      <itunes:duration>00:02:00</itunes:duration>
+    </item>
+    <item>
+      <title>Superman de James Gunn Quebra Expectativas e Gera Debate - 15/07/25</title>
+      <description><![CDATA[Dani-EL e Laurinha do Made in Krypton falam sobre o sucesso estrondoso de bilheteria do novo Superman de James Gunn, as polêmicas em torno da origem do herói e a recepção do público. E aí, qual sua versão favorita de Superman?]]></description>
+      <pubDate>Tue, 15 Jul 2025 18:00:00 -0300</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/madeinkrypton/podcast07@main/15_07_2025.mp3" length="1234567" type="audio/wav"/>
+      <guid>https://cdn.jsdelivr.net/gh/madeinkrypton/podcast07@main/15_07_2025.mp3</guid>
+      <itunes:duration>00:02:02</itunes:duration>
+    </item>
+  </channel>
+</rss>

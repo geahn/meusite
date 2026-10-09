@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Política de Privacidade</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; line-height: 1.6; }
+        h1, h2 { color: #333; }
+    </style>
+    <script>
+        function getQueryParams() {
+            const params = new URLSearchParams(window.location.search);
+            return {
+                nomeapp: params.get("nomeapp") || "Nosso Aplicativo",
+                tipo: params.get("tipo") || "aplicativo",
+                descricao: params.get("descricao") || "um aplicativo inovador",
+                empresa: params.get("empresa") || "Geahn Daniel",
+                email: params.get("email") || "contato@geahn.com",
+                coleta_dados: params.get("coleta_dados") || "não",
+                uso_dados: params.get("uso_dados") || "aprimorar os serviços",
+                compartilhamento: params.get("compartilhamento") || "não",
+				data_efetiva: params.get("data_efetiva") || "3 de julho de 2024"
+            };
+        }
+        
+        function preencherConteudo() {
+            const dados = getQueryParams();
+            document.getElementById("nomeapp").textContent = dados.nomeapp;
+            document.getElementById("tipo").textContent = dados.tipo;
+            document.getElementById("descricao").textContent = dados.descricao;
+            document.getElementById("empresa").textContent = dados.empresa;
+            document.getElementById("email").textContent = dados.email;
+            document.getElementById("data_efetiva").textContent = dados.data_efetiva;
+            
+            let dadosTexto = "";
+            if (dados.coleta_dados.toLowerCase() === "sim") {
+                dadosTexto = `Coletamos informações pessoais dos usuários para ${dados.uso_dados}.`;
+                if (dados.compartilhamento.toLowerCase() === "sim") {
+                    dadosTexto += " Caso necessário, esses dados podem ser compartilhados com terceiros para melhorar nossos serviços e oferecer uma experiência aprimorada ao usuário.";
+                } else {
+                    dadosTexto += " Esses dados são utilizados apenas internamente e não são compartilhados com terceiros sob nenhuma circunstância.";
+                }
+            } else {
+                dadosTexto = "Não coletamos informações pessoais dos usuários além das necessárias para o funcionamento básico do aplicativo.";
+            }
+            document.getElementById("dados_pessoais").textContent = dadosTexto;
+        }
+        
+        window.onload = preencherConteudo;
+    </script>
+</head>
+<body>
+    <h1>Política de Privacidade</h1>
+    <p>A sua privacidade é importante para nós. É política da <span id="empresa"></span> respeitar a sua privacidade em relação a qualquer informação sua que possamos coletar no <span id="tipo"></span> <span id="nomeapp"></span>. <span id="descricao"></span></p>
+    
+    <p><strong>Sobre a Coleta de Dados</strong></p>
+    <p id="dados_pessoais"></p>
+    
+    <p>Apenas retemos as informações coletadas pelo tempo necessário para fornecer o serviço solicitado. Quando armazenamos dados, protegemos dentro de meios comercialmente aceitáveis para evitar perdas, roubos, bem como acesso, divulgação, cópia, uso ou modificação não autorizados.</p>
+    
+    <p>Não compartilhamos informações de identificação pessoal publicamente ou com terceiros, exceto quando exigido por lei.</p>
+    
+    <p>O nosso site pode ter links para sites externos que não são operados por nós. Esteja ciente de que não temos controle sobre o conteúdo e práticas desses sites e não podemos aceitar responsabilidade por suas respectivas políticas de privacidade.</p>
+    
+    <p>Você é livre para recusar a nossa solicitação de informações pessoais, entendendo que talvez não possamos fornecer alguns dos serviços desejados.</p>
+    
+    <p>O uso continuado de nosso site será considerado como aceitação de nossas práticas em torno de privacidade e informações pessoais. Se você tiver alguma dúvida sobre como lidamos com dados do usuário e informações pessoais, entre em contato conosco pelo e-mail: <span id="email"></span></p>
+    
+    <h2>Compromisso do Usuário</h2>
+    <p>O usuário se compromete a fazer uso adequado dos conteúdos e da informação que <span id="empresa"></span> oferece no site e com caráter enunciativo, mas não limitativo:</p>
+    <ul>
+        <li>Não se envolver em atividades que sejam ilegais ou contrárias à boa fé e à ordem pública.</li>
+        <li>Não difundir propaganda ou conteúdo de natureza racista, xenofóbica, jogos de azar, qualquer tipo de pornografia ilegal, apologia ao terrorismo ou contra os direitos humanos.</li>
+        <li>Não causar danos aos sistemas físicos (hardwares) e lógicos (softwares) de <span id="empresa"></span>, de seus fornecedores ou terceiros, nem introduzir ou disseminar vírus informáticos ou quaisquer outros sistemas que possam causar danos.</li>
+    </ul>
+    
+    <h2>Mais Informações</h2>
+    <p>Esperamos que esteja esclarecido e, como mencionado anteriormente, se houver algo que você não tem certeza se precisa ou não, geralmente é mais seguro manter as configurações padrão para garantir a melhor experiência.</p>
+    
+    <p>Esta política é efetiva a partir de <span id="data_efetiva"></span>.</p>
+</body>
+</html>
